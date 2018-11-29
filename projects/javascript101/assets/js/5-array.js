@@ -33,9 +33,17 @@ function printReverse(number){
 
 printReverse([1,2,3,4,5,6,]);
 
-var array1 =
-var array2 =
+//var array1 =
+//var array2 =
 
-funtion isIdentical(array1, array2){
-
+function isIdentical(array){
+    var first = array[0];
+    for(var i = 0; i<=array.length; i++ ) {
+        if (array[i] == first);
+        return true;
+    } 
 }
+
+
+console.log(isIdentical([1, 1, 1, 1, 1]));
+console.log(isIdentical([1, 1, 1, 2, 2]));
