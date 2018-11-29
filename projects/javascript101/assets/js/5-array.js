@@ -46,4 +46,4 @@ function isIdentical(array){
 
 
 console.log(isIdentical([1, 1, 1, 1, 1]));
-console.log(isIdentical([1, 1, 1, 2, 2]));
+console.log(isIdentical([1, 1, 1, 2, 2])); //
