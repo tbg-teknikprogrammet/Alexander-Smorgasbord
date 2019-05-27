@@ -1,0 +1,10 @@
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\bin\Debug\Editor-A.exe.config
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\bin\Debug\Editor-A.exe
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\bin\Debug\Editor-A.pdb
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor-A.csprojAssemblyReference.cache
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor_A.Form1.resources
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor_A.Properties.Resources.resources
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor-A.csproj.GenerateResource.cache
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor-A.csproj.CoreCompileInputs.cache
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor-A.exe
+C:\Users\alexlind\source\repos\Editor-A\Editor-A\obj\Debug\Editor-A.pdb

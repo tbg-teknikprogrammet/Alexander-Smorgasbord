@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.some-class {
+    color: orange;
+    letter-spacing: 2px;
+    transform: rotate(180deg);
+    font-style: italic;
+}
+ 
+.special-class {
+    color: green;
+    letter-spacing: 1px;
+    transform: skew(20px)
+    
+}
